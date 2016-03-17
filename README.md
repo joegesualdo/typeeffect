@@ -1,6 +1,8 @@
 # Deprecation Notice
 > Package has merged with [typewriter-engine](https://github.com/joegesualdo/typewriter-engine)
 
+---
+
 ## Type Effect 
 > Typewriting simulation utility
 
